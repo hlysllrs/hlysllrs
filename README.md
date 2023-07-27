@@ -1,4 +1,4 @@
-### hi, i'm hailey :smiling_face:
+### hi, i'm hailey ☺️
 
 <!--
 **hlysllrs/hlysllrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
