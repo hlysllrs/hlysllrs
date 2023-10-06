@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 
 [![Hailey's Language stats](https://github-readme-stats.vercel.app/api/top-langs?username=hlysllrs&show_icons=true&locale=en&layout=compact&theme=transparent&title_color=0060f8&text_color=000000&card_width=450)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-[![Hailey's GitHub stats](https://github-readme-stats.vercel.app/api?username=hlysllrs&hide=stars,issues&theme=transparent&title_color=0060f8&text_color=000000&text_bold=false)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Hailey's GitHub stats](https://github-readme-stats.vercel.app/api?username=hlysllrs&hide=stars,issues&theme=transparent&title_color=0060f8&text_color=000000&text_bold=false)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 <!-- <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=hlysllrs&show_icons=true&locale=en" alt="hlysllrs" /></p> <br> -->
