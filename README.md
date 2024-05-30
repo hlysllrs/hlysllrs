@@ -32,7 +32,11 @@ Here are some ideas to get you started:
 </p>
 
 
+
 <h3 align="left">Currently Exploring:</h3> 
+      <a href="https://shopify.dev/" target="_blank" rel="noreferrer"> 
+        <img src="https://img.icons8.com/?size=100&id=uSHYbs6PJfMT&format=png&color=000000" alt="shopify" width="40" height="40"/> 
+      </a>
       <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
       </a>
